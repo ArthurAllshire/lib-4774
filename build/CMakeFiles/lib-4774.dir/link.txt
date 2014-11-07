@@ -1,0 +1,2 @@
+/usr/bin/powerpc-wrs-vxworks-ar cr liblib-4774.a  CMakeFiles/lib-4774.dir/subsystems/UdpReceiver.cpp.obj CMakeFiles/lib-4774.dir/subsystems/EyeBone.cpp.obj
+/usr/bin/powerpc-wrs-vxworks-ranlib liblib-4774.a

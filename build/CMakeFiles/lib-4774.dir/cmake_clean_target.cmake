@@ -1,0 +1,3 @@
+FILE(REMOVE_RECURSE
+  "liblib-4774.a"
+)

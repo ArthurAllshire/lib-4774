@@ -5,6 +5,8 @@
 
 #define PORT 4775
 
+#define PARSEDLEN 5 // the number of elements we are expecting from the string that we will be parsing
+
 class EyeBone: public UdpReceiver {
     public:
         EyeBone();

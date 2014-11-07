@@ -7,5 +7,6 @@ add_definitions ("-Wno-unused-variable -Wno-unused-but-set-variable -Wno-unused-
 
 add_library(lib-4774
   subsystems/UdpReceiver.cpp
+  subsystems/EyeBone.cpp
 )
 
